@@ -42,13 +42,6 @@ Here are a few projects I’m proud of (see pinned repos):
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect With Me
 
 - Email: [web4foryou@gmail.com](mailto:your@email.com)
